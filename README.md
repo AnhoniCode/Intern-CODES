@@ -6,6 +6,6 @@ Above-Are all the Codes-
 
 3.Chatbot_gemini.py is the Gemini chatbot (additionaly with streamlit webinterface)
 
-4.fifa_wc2026 is the app for webscrapping
+4.fifa_wc2026.py is the app for webscrapping using streamlit
 
 5. THE following Libraries in Streamlit_requirements.txt libraries are neccessary for the working of streamlit codes
