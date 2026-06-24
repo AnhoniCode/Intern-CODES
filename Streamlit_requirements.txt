@@ -1,6 +1,5 @@
 streamlit
-cloudscraper
+requests
 beautifulsoup4
 pandas
 lxml
-chromedriver (pip install undetected-chromedriver)
