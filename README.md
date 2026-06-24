@@ -3,3 +3,4 @@ Above-Are all the Codes-
 2.The rpg_project.py is the streamlit + Gemini API code
 3.Chatbot_gemini.py is the Gemini chatbot (additionaly with streamlit webinterface)
 4.
+5. THE following Libraries in Streamlit_requirements.txt libraries are neccessary for the working of streamlit codes
